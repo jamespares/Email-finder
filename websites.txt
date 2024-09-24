@@ -1,0 +1,70 @@
+China,Ministry of Foreign Affairs,https://www.fmprc.gov.cn/
+Russia,Ministry of Foreign Affairs,https://www.mid.ru/
+Russia,Consular Department,https://www.mid.ru/
+India,Ministry of External Affairs,https://www.mea.gov.in/
+India,Immigration Department,https://www.mea.gov.in/
+Vietnam,Ministry of Foreign Affairs,https://www.mofa.gov.vn/
+Vietnam,Immigration Department,https://www.mofa.gov.vn/
+Egypt,Ministry of Foreign Affairs,https://www.mfa.gov.eg/
+Egypt,Egyptian Visa Centers,https://www.mfa.gov.eg/
+Thailand,Ministry of Foreign Affairs,https://www.mfa.go.th/
+Thailand,Immigration Bureau,https://www.immigration.go.th/
+Turkey,Ministry of Foreign Affairs,https://www.mfa.gov.tr/
+Turkey,Directorate General of Migration Management,https://www.goc.gov.tr/
+Indonesia,Ministry of Foreign Affairs,https://www.kemlu.go.id/
+Indonesia,Immigration Office,https://www.imigrasi.go.id/
+Brazil,Ministry of Foreign Affairs (Itamaraty),http://www.itamaraty.gov.br/
+Australia,Department of Home Affairs,https://www.homeaffairs.gov.au/
+Australia,Australian Border Force,https://www.abf.gov.au/
+United States,Department of State,https://www.state.gov/
+United States,U.S. Citizenship and Immigration Services (USCIS),https://www.uscis.gov/
+Canada,Immigration, Refugees and Citizenship Canada (IRCC),https://www.canada.ca/en/immigration-refugees-citizenship.html
+Japan,Ministry of Foreign Affairs,https://www.mofa.go.jp/
+Japan,Immigration Services Agency,https://www.isa.go.jp/en/
+South Africa,Department of Home Affairs,http://www.dha.gov.za/
+Kenya,Ministry of Interior and Coordination of National Government,https://www.interior.go.ke/
+Kenya,Directorate of Immigration Services,https://www.immigration.go.ke/
+Tanzania,Ministry of Home Affairs, Community Development, Gender, Elderly and Children,https://www.mhc.go.tz/
+Tanzania,Immigration Services Department,https://www.immigration.go.tz/
+Nepal,Department of Immigration,https://www.nepalimmigration.gov.np/
+Morocco,Ministry of Foreign Affairs and International Cooperation,https://www.diplomatie.ma/
+Morocco,Direction of Immigration and Emigration,https://www.immigration.diplomatie.ma/
+Peru,Superintendencia Nacional de Migraciones,https://www.migraciones.gob.pe/
+Bolivia,Ministerio de Relaciones Exteriores,https://www.cancilleria.gob.bo/
+Bolivia,Dirección General de Migración,https://www.migracion.gob.bo/
+United Kingdom,Home Office,https://www.gov.uk/government/organisations/home-office
+France,Ministry for Europe and Foreign Affairs,https://www.diplomatie.gouv.fr/
+Germany,Federal Foreign Office,https://www.auswaertiges-amt.de/
+Italy,Ministry of Foreign Affairs and International Cooperation,https://www.esteri.it/en/
+Spain,Ministry of Foreign Affairs, European Union and Cooperation,http://www.exteriores.gob.es/
+Netherlands,Ministry of Foreign Affairs,https://www.government.nl/ministries/ministry-of-foreign-affairs
+Switzerland,State Secretariat for Migration (SEM),https://www.sem.admin.ch/sem/en/home.html
+Austria,Federal Ministry of the Interior,https://www.bmi.gv.at/
+Greece,Ministry of Foreign Affairs,https://www.mfa.gr/
+Portugal,Serviço de Estrangeiros e Fronteiras (SEF),https://www.sef.pt/
+Belgium,Ministry of Foreign Affairs,https://diplomatie.belgium.be/en
+Czech Republic,Ministry of the Interior,https://www.mvcr.cz/mvcren/
+Poland,Ministry of Foreign Affairs,https://www.gov.pl/web/diplomacy
+Sweden,Swedish Migration Agency (Migrationsverket),https://www.migrationsverket.se/
+Colombia,Ministry of Foreign Affairs,https://www.cancilleria.gov.co/
+Colombia,Migración Colombia,https://www.migracioncolombia.gov.co/
+Mexico,Secretaría de Relaciones Exteriores (SRE),https://www.gob.mx/sre
+Mexico,Instituto Nacional de Migración (INM),https://www.gob.mx/inm
+Argentina,Ministry of Foreign Affairs, International Trade and Worship,https://www.cancilleria.gob.ar/
+Argentina,National Directorate of Migration,https://www.migraciones.gob.ar/
+Nigeria,Ministry of Foreign Affairs,https://www.foreignaffairs.gov.ng/
+Nigeria,Nigeria Immigration Service,https://www.immigration.gov.ng/
+Singapore,Ministry of Foreign Affairs,https://www.mfa.gov.sg/
+Singapore,Immigration and Checkpoints Authority (ICA),https://www.ica.gov.sg/
+New Zealand,Ministry of Foreign Affairs and Trade,https://www.mfat.govt.nz/
+New Zealand,Immigration New Zealand,https://www.immigration.govt.nz/
+South Korea,Ministry of Foreign Affairs,https://www.mofa.go.kr/eng/index.do
+South Korea,Immigration Service,https://www.immigration.go.kr/immigration_eng/index.do
+Malaysia,Ministry of Foreign Affairs,https://www.kln.gov.my/web/guest/home
+Malaysia,Immigration Department,https://www.imi.gov.my/
+Philippines,Department of Foreign Affairs,https://www.dfa.gov.ph/
+Philippines,Bureau of Immigration,https://immigration.gov.ph/
+Austria,Ministry for European and International Affairs,https://www.bmeia.gv.at/en/
+Brazil,Consular Department,http://www.itamaraty.gov.br/
+Egypt,Consular Department,https://www.mfa.gov.eg/
+Canada,Global Affairs Canada,https://www.international.gc.ca/

@@ -1,0 +1,40 @@
+Scraping emails for Ministry of Foreign Affairs (China) at https://www.fmprc.gov.cn/
+No emails found for Ministry of Foreign Affairs (China)
+Scraping emails for Ministry of Foreign Affairs (Russia) at https://www.mid.ru/
+No emails found for Ministry of Foreign Affairs (Russia)
+Scraping emails for Consular Department (Russia) at https://www.mid.ru/
+No emails found for Consular Department (Russia)
+Scraping emails for Ministry of External Affairs (India) at https://www.mea.gov.in/
+No emails found for Ministry of External Affairs (India)
+Scraping emails for Immigration Department (India) at https://www.mea.gov.in/
+No emails found for Immigration Department (India)
+Scraping emails for Ministry of Foreign Affairs (Vietnam) at https://www.mofa.gov.vn/
+No emails found for Ministry of Foreign Affairs (Vietnam)
+Scraping emails for Immigration Department (Vietnam) at https://www.mofa.gov.vn/
+No emails found for Immigration Department (Vietnam)
+Scraping emails for Ministry of Foreign Affairs (Egypt) at https://www.mfa.gov.eg/
+No emails found for Ministry of Foreign Affairs (Egypt)
+Scraping emails for Egyptian Visa Centers (Egypt) at https://www.mfa.gov.eg/
+No emails found for Egyptian Visa Centers (Egypt)
+Scraping emails for Ministry of Foreign Affairs (Thailand) at https://www.mfa.go.th/
+No emails found for Ministry of Foreign Affairs (Thailand)
+Scraping emails for Immigration Bureau (Thailand) at https://www.immigration.go.th/
+No emails found for Immigration Bureau (Thailand)
+Scraping emails for Ministry of Foreign Affairs (Turkey) at https://www.mfa.gov.tr/
+No emails found for Ministry of Foreign Affairs (Turkey)
+Scraping emails for Directorate General of Migration Management (Turkey) at https://www.goc.gov.tr/
+No emails found for Directorate General of Migration Management (Turkey)
+Scraping emails for Ministry of Foreign Affairs (Indonesia) at https://www.kemlu.go.id/
+No emails found for Ministry of Foreign Affairs (Indonesia)
+Scraping emails for Immigration Office (Indonesia) at https://www.imigrasi.go.id/
+No emails found for Immigration Office (Indonesia)
+Scraping emails for Ministry of Foreign Affairs (Itamaraty) (Brazil) at http://www.itamaraty.gov.br/
+No emails found for Ministry of Foreign Affairs (Itamaraty) (Brazil)
+Scraping emails for Department of Home Affairs (Australia) at https://www.homeaffairs.gov.au/
+No emails found for Department of Home Affairs (Australia)
+Scraping emails for Australian Border Force (Australia) at https://www.abf.gov.au/
+No emails found for Australian Border Force (Australia)
+Scraping emails for Department of State (United States) at https://www.state.gov/
+No emails found for Department of State (United States)
+Scraping emails for U.S. Citizenship and Immigration Services (USCIS) (United States) at https://www.uscis.gov/
+No emails found for U.S. Citizenship and Immigration Services (USCIS) (United States)

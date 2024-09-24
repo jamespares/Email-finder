@@ -3,3 +3,5 @@ beautifulsoup4
 googletrans
 selenium
 webdriver-manager
+python-dotenv       
+pandas
